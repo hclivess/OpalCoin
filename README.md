@@ -48,7 +48,7 @@ https://twitter.com/OpalCoinTeam
 https://bitcointalk.org/index.php?topic=778720.0
 
 Windows Compiled Wallet
-https://mega.co.nz/#!U5QHVTYQ!LHhZ3RlhJn5A-kFEpoEUA3YU2YbHS2bH6DfprOBEoF4
+https://mega.nz/#!QRJzyL4Q!AGAAQJSjEO0aDNxLiKVHfwpownj6BbdpEHGi6MiiWPE
 
 ------------------------------------------
 
